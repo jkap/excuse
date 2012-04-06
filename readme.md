@@ -7,7 +7,6 @@ Excuse is an easy to use excuse generator! Server down? Use Excuse to buy some t
 ## How do I use it?
 
     gem install excuse
-
     excuse
 
 And it's that easy!
